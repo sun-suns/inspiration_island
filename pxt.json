@@ -11,6 +11,7 @@
         "main.ts",
         "README.md",
         "tutorial/no_coding.md",
+        "custom.ts",
         "tutorial/tutorial-1.md"
     ],
     "testFiles": [
