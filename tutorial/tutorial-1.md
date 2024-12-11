@@ -5,6 +5,6 @@
 ```template
 //
 ```
-```ghost
+```block
 inspiration_island.teleportToNext1()
 ```
