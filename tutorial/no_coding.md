@@ -7,6 +7,6 @@
 ```template
 //
 ```
-```blocks
+```ghost
 blocks
 ```
