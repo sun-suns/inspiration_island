@@ -1,8 +1,5 @@
 
-
-//% weight=999
-//% color=#c71585
-//% icon="\uf1b3"
+//% weight=999 color=#c71585 icon="\uf1b3"
 //% block="体験（たいけん）"
 namespace inspiration_island {
 
@@ -13,6 +10,5 @@ namespace inspiration_island {
         /*player.teleport(world(-21, 0, 0));*/
         player.execute("tp @s 87 145 207 -90 0");
     }
-
     
 }
