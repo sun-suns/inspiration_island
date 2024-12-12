@@ -1,6 +1,6 @@
 
 //% weight=999 color=#c71585 icon="\uf1b3"
-//% block="体験（たいけん）"
+//% block="体験\n（たいけん）"
 namespace inspiration_island {
 
     //% weight=90
