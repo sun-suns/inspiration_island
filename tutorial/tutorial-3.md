@@ -5,7 +5,7 @@
 
 ```ghost
 blocks.place(GRASS, pos(0, 0, 0));
-blocks.place(blocks.selectTntBlock(TNT)(0), pos(0, 0, 0));
+blocks.place(blocks.selectTntBlock(TNT), pos(0, 0, 0));
 ```
 
 ```template
