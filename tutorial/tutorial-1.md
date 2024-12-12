@@ -4,7 +4,7 @@
 次（つぎ）の地点（ちてん）へテレポートしよう！
 
 ```ghost
-inspiration_island.tpToSite1()
+inspiration_island.tpToSite1();
 ```
 
 ```template
