@@ -2,9 +2,11 @@
 ## 次（つぎ）の地点（ちてん）へテレポートしよう！
 ### @hideIteration true
 次（つぎ）の地点（ちてん）へテレポートしよう！
-```template
-//
-```
+
 ```ghost
 inspiration_island.tpToSite1()
+```
+
+```template
+//
 ```
