@@ -22,7 +22,7 @@ namespace inspiration_island {
 }
 
 namespace blocks {
-    //% weight=70
+    //% weight=60
     //% blockId=selectTntBlock
     //% block="$block"
     //% block.fieldEditor="gridpicker"
