@@ -1,8 +1,11 @@
 
 enum selecttntblocks {
-    //% blockIdentity="selectblocks.block" enumval=46 block="TNT"
+    //% blockIdentity="selecttntblocks.block" enumval=46 block="TNT"
     //% jres alias=TNT
-    TNT = 46
+    TNT = 46,
+    //% blockIdentity="selecttntblocks.block" enumval=0 block="空気"
+    //% jres alias=AIR
+    Air = 0
 }
 
 //% weight=999 color=#c71585 icon="\uf1b3"
