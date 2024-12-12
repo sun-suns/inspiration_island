@@ -1,3 +1,3 @@
-player.onChat("run", function () {
+for (let index = 0; index < 4; index++) {
 	
-})
+}

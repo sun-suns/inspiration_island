@@ -4,11 +4,11 @@
 namespace inspiration_island {
 
     //% weight=90
-    //% blockId=teleportToNext1
-    //% block="次（つぎ）の地点（ちてん）へテレポート"
-    export function teleportToNext1() {
+    //% blockId=tpToSite1
+    //% block="地点（ちてん）１へテレポート"
+    export function tpToSite1() {
         /*player.teleport(world(-21, 0, 0));*/
-        player.execute("tp @s 87 145 207 -90 0");
+        player.execute("tp @s 87 145 207 -90 0");/*(87 145 207)へテレポートし、東を向かせる*/
     }
     
 }

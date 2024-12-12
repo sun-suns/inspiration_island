@@ -6,5 +6,5 @@
 //
 ```
 ```ghost
-inspiration_island.teleportToNext1()
+inspiration_island.tpToSite1()
 ```
