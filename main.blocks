@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="#%d^RBz(KMa/x)$(j*^3" x="20" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="#%d^RBz(KMa/x)$(j*^3" x="0" y="0"></block><block type="selectTntBlock" id="/2/kLea5m;U%96(d+LK;" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="106" y="150"><field name="block">selecttntblocks.TNT</field></block></xml>
