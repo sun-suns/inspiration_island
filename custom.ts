@@ -11,6 +11,7 @@ enum selecttntblocks {
 //% weight=999 color=#c71585 icon="\uf1b3"
 //% block="体験\n（たいけん）"
 namespace inspiration_island {
+
     //% weight=90
     //% blockId=tpToSite1
     //% block="地点（ちてん）１へテレポート"
@@ -22,6 +23,7 @@ namespace inspiration_island {
 }
 
 namespace blocks {
+
     //% weight=60
     //% blockId=selectTntBlock
     //% block="$block"
@@ -37,4 +39,25 @@ namespace blocks {
     export function selectTntBlock(block: selecttntblocks): number {
         return block;
     }
+
+    //% blockGap=8
+    //% weight=330
+    //% shim=TD_ID
+    /*//% blockId=minecraftBlock*/
+    //% blockId=customblock
+    //% block="%block"
+    //% block.fieldEditor="gridpicker"
+    //% block.fieldOptions.width=340
+    //% block.fieldOptions.columns=8
+    //% block.fieldOptions.tooltips=true
+    //% block.fieldOptions.tooltipsXOffset="20"
+    //% block.fieldOptions.tooltipsYOffset="-20"
+    //% block.fieldOptions.maxRows="8"
+    //% block.fieldOptions.hasSearchBar=true
+    //% block.fieldOptions.hideRect=true
+    //% block.defl=Block.TNT
+    export function customblock(block: Block): number {
+        return block;
+    }
+
 }
