@@ -4,7 +4,8 @@
 プログラミングでブロックを置（お）いてみよう
 
 ```ghost
-blocks.place(blocks.selectTntBlock(selecttntblocks.TNT), pos(0, 0, 0));
+<!--blocks.place(blocks.selectTntBlock(selecttntblocks.TNT), pos(0, 0, 0));-->
+blocks.place(blocks.customblock(Block.TNT), pos(0, 0, 0));
 ```
 
 ```template
