@@ -7,6 +7,7 @@
 
 ```ghost
 blocks.place(blocks.customblock(Block.TNT), pos(0, 0, 0));
+blocks.customblock(Block.TNT);
 ```
 
 ```template
