@@ -43,7 +43,7 @@ namespace blocks {
     //% blockGap=8
     //% weight=330
     //% shim=TD_ID
-    /*//% blockId=minecraftBlock*/
+    /* //% blockId=minecraftBlock */
     //% blockId=customblock
     //% block="%block"
     //% block.fieldEditor="gridpicker"
